@@ -1,0 +1,8 @@
+{
+  "name": "Remix PharmaForm AI",
+  "description": "AI-Powered Drug–Excipient Compatibility Prediction Platform for pharmaceutical R\u0026D",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,9 @@
+drug_name,drug_smiles,excipient_name,excipient_smiles,diff_logp,diff_mw,diff_tpsa,cosine_sim,tanimoto_sim,maillard_risk,metal_chelation_risk,ester_hydrolysis_risk,compatibility_status,confidence_score
+Paracetamol,CC(=O)NC1=CC=C(O)C=C1,Lactose Monohydrate,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,5.02,209.15,140.2,0.85,0.72,0,0,0,Compatible,94
+Paracetamol,CC(=O)NC1=CC=C(O)C=C1,MCC PH-102,C1C(C(C(C(O1)O)O)O)O,2.77,10.98,50.05,0.92,0.78,0,0,0,Compatible,98
+Fluoxetine,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,Lactose Monohydrate,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,8.61,50.98,168.27,0.71,0.64,1,0,0,Incompatible,96
+Ciprofloxacin,C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNCC4)F)C(=O)O,Magnesium Stearate,CCCCCCCCCCCCCCCCCC(=O)[O-].[Mg+2],13.92,259.9,7.38,0.62,0.55,0,1,0,Incompatible,92
+Ibuprofen,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,D-Mannitol,C(C(C(C(C(CO)O)O)O)O)O,6.6,24.11,84.08,0.88,0.74,0,0,0,Compatible,97
+Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O,Citric Acid Anhydrous,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,2.91,11.96,68.53,0.81,0.68,0,0,1,Possibly Reactive,88
+Metformin,CN(C)C(=N)NC(=N)N,Lactose Monohydrate,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O,3.13,231.15,100.54,0.74,0.66,1,0,0,Incompatible,95
+Atorvastatin,CC(C)C1=C(C(=C(N1CCC(CC(CC(=O)O)O)O)C2=CC=C(F)C=C2)C3=CC=CC=C3)C(=O)NC4=CC=CC=C4,Crospovidone,C1CCN(C1=O)C=C,5.88,447.5,91.48,0.79,0.71,0,0,0,Compatible,93
