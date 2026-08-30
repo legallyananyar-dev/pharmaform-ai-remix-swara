@@ -1,0 +1,434 @@
+molecule_chembl_id,pchembl_value,standard_type,standard_units,standard_value,target_chembl_id,target_pref_name,type,units,value
+CHEMBL2,8.70,Kd,nM,1.995,CHEMBL1907610,Adrenergic receptor alpha-1,pA2,,8.7
+CHEMBL2,5.60,Kd,nM,2511.89,CHEMBL2093864,Adrenergic receptor alpha-2,pA2,,5.6
+CHEMBL2,,Ratio,,1258.9,CHEMBL1907610,Adrenergic receptor alpha-1,Ratio,,1258.9
+CHEMBL2,8.98,Ki,nM,1.05,CHEMBL319,Alpha-1A adrenergic receptor,Ki,nM,1.05
+CHEMBL2,8.53,Ki,nM,2.93,CHEMBL315,Alpha-1B adrenergic receptor,Ki,nM,2.93
+CHEMBL6,,IC50,nM,630957344.48,CHEMBL2096674,Cyclooxygenase,Log 1/IC50,,0.2
+CHEMBL6,,Log 1/ED40,,-0.15,CHEMBL376,Rattus norvegicus,Log 1/ED40,,-0.15
+CHEMBL6,,LogD,,1.0,CHEMBL2362975,No relevant target,logD,,1.0
+CHEMBL6,,pKa,,4.2,CHEMBL2362975,No relevant target,pKa,,4.2
+CHEMBL8,,MIC,ug.mL-1,0.0381,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.0381
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614595,Shigella sonnei,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614395,Shigella boydii,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL614405,Plesiomonas shigelloides,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614443,Morganella morganii,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0381,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.0381
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL612621,Vibrio mimicus,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614602,Vibrio fluvialis,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614402,Vibrio cholerae,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614403,Vibrio parahaemolyticus,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614598,Edwardsiella tarda,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614444,Proteus mirabilis,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL351,Salmonella typhimurium,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL612293,Salmonella paratyphi,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL614448,Salmonella typhi,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL614447,Salmonella enteritidis,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL612615,Citrobacter freundii,MIC,ug ml-1,0.0095
+CHEMBL8,,MIC,ug.mL-1,0.019,CHEMBL614439,Enterobacter,MIC,ug ml-1,0.019
+CHEMBL8,,MIC,ug.mL-1,0.0095,CHEMBL613071,Priestia megaterium,MIC,ug ml-1,0.0095
+CHEMBL6,,Log K',,0.47,CHEMBL3253,Albumin,Log K',,0.47
+CHEMBL2,,Log K',,0.06,CHEMBL3253,Albumin,Log K',,0.06
+CHEMBL6,,LogP,,2.0,CHEMBL2362975,No relevant target,logP,,2.0
+CHEMBL6,,Log B/F,,0.919,CHEMBL3253,Albumin,Log B/F,,0.919
+CHEMBL6,,Log B/F,,0.205,CHEMBL369,Cavia porcellus,Log B/F,,0.205
+CHEMBL8,,Concentration,ug ml-1,0.5,CHEMBL2094139,DNA gyrase,Concentration,ug ml-1,0.5
+CHEMBL8,,Concentration,ug ml-1,5.3,CHEMBL2094139,DNA gyrase,Concentration,ug ml-1,5.3
+CHEMBL8,,MIC,ug.mL-1,0.025,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.025
+CHEMBL8,,MIC,ug.mL-1,0.05,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.05
+CHEMBL8,,MIC,ug.mL-1,0.1,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.1
+CHEMBL8,,MIC,ug.mL-1,0.1,CHEMBL612537,Providencia rettgeri,MIC,ug ml-1,0.1
+CHEMBL8,,MIC,ug.mL-1,0.05,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.05
+CHEMBL8,,MIC,ug.mL-1,0.4,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.4
+CHEMBL8,,MIC,ug.mL-1,3.1,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,3.1
+CHEMBL8,,MIC,ug.mL-1,0.2,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.2
+CHEMBL8,,MIC,ug.mL-1,0.8,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,0.8
+CHEMBL8,,MIC,ug.mL-1,1.6,CHEMBL347,Streptococcus pneumoniae,MIC,ug ml-1,1.6
+CHEMBL8,,MIC,ug.mL-1,0.8,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,0.8
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL614439,Enterobacter,MIC,ug ml-1,0.06
+CHEMBL8,,PD50,mg kg-1,1.0,CHEMBL375,Mus musculus,PD50,mg kg-1,1.0
+CHEMBL8,,PD50,mg kg-1,0.3,CHEMBL375,Mus musculus,PD50,mg kg-1,0.3
+CHEMBL8,,PD50,mg kg-1,25.0,CHEMBL375,Mus musculus,PD50,mg kg-1,25.0
+CHEMBL8,,PD50,mg kg-1,5.0,CHEMBL375,Mus musculus,PD50,mg kg-1,5.0
+CHEMBL8,,PD50,mg kg-1,100.0,CHEMBL375,Mus musculus,PD50,mg kg-1,100.0
+CHEMBL8,,PD50,mg kg-1,20.0,CHEMBL375,Mus musculus,PD50,mg kg-1,20.0
+CHEMBL8,,PD50,mg kg-1,29.0,CHEMBL375,Mus musculus,PD50,mg kg-1,29.0
+CHEMBL9,,Concentration,ug ml-1,1.0,CHEMBL2094139,DNA gyrase,Concentration,ug ml-1,1.0
+CHEMBL9,,Concentration,ug ml-1,5.5,CHEMBL2094139,DNA gyrase,Concentration,ug ml-1,5.5
+CHEMBL9,,MIC,ug.mL-1,0.1,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.1
+CHEMBL9,,MIC,ug.mL-1,0.025,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.025
+CHEMBL9,,MIC,ug.mL-1,0.05,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.05
+CHEMBL9,,MIC,ug.mL-1,0.05,CHEMBL612537,Providencia rettgeri,MIC,ug ml-1,0.05
+CHEMBL9,,MIC,ug.mL-1,0.1,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.1
+CHEMBL9,,MIC,ug.mL-1,0.2,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.2
+CHEMBL9,,MIC,ug.mL-1,0.8,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.8
+CHEMBL9,,MIC,ug.mL-1,0.05,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.05
+CHEMBL9,,MIC,ug.mL-1,1.6,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,1.6
+CHEMBL9,,MIC,ug.mL-1,1.6,CHEMBL347,Streptococcus pneumoniae,MIC,ug ml-1,1.6
+CHEMBL9,,MIC,ug.mL-1,0.8,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,0.8
+CHEMBL9,,MIC,ug.mL-1,0.06,CHEMBL614439,Enterobacter,MIC,ug ml-1,0.06
+CHEMBL9,,PD50,mg kg-1,4.0,CHEMBL375,Mus musculus,PD50,mg kg-1,4.0
+CHEMBL9,,PD50,mg kg-1,0.6,CHEMBL375,Mus musculus,PD50,mg kg-1,0.6
+CHEMBL9,,PD50,mg kg-1,76.0,CHEMBL375,Mus musculus,PD50,mg kg-1,76.0
+CHEMBL9,,PD50,mg kg-1,11.0,CHEMBL375,Mus musculus,PD50,mg kg-1,11.0
+CHEMBL9,,PD50,mg kg-1,100.0,CHEMBL375,Mus musculus,PD50,mg kg-1,100.0
+CHEMBL9,,PD50,mg kg-1,45.0,CHEMBL375,Mus musculus,PD50,mg kg-1,45.0
+CHEMBL6,,Reduction,%,37.0,CHEMBL376,Rattus norvegicus,Reduction,%,37.0
+CHEMBL6,,Reduction,%,56.0,CHEMBL376,Rattus norvegicus,Reduction,%,56.0
+CHEMBL6,,Reduction,%,77.0,CHEMBL376,Rattus norvegicus,Reduction,%,77.0
+CHEMBL6,,Reduction,%,91.0,CHEMBL376,Rattus norvegicus,Reduction,%,91.0
+CHEMBL6,,Reduction,%,70.0,CHEMBL369,Cavia porcellus,Reduction,%,70.0
+CHEMBL6,,Reduction,%,84.0,CHEMBL369,Cavia porcellus,Reduction,%,84.0
+CHEMBL6,,Reduction,%,91.0,CHEMBL369,Cavia porcellus,Reduction,%,91.0
+CHEMBL6,,Reduction,%,12.0,CHEMBL369,Cavia porcellus,Reduction,%,12.0
+CHEMBL6,,Reduction,%,81.0,CHEMBL369,Cavia porcellus,Reduction,%,81.0
+CHEMBL2,10.38,Kd,nM,0.04169,CHEMBL1907610,Adrenergic receptor alpha-1,pA2,,10.38
+CHEMBL2,,ED50,mg.kg-1,0.04,CHEMBL1907610,Adrenergic receptor alpha-1,ED50,mg kg-1,0.04
+CHEMBL2,,ID50,mg.kg-1,10.0,CHEMBL339,D(2) dopamine receptor,ID50,mg kg-1,10.0
+CHEMBL8,,MIC,ug.mL-1,0.015,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.015
+CHEMBL8,,MIC,ug.mL-1,0.015,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.015
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL614445,Providencia stuartii,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.015,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.015
+CHEMBL8,,MIC,ug.mL-1,0.015,CHEMBL614594,Shigella,MIC,ug ml-1,0.015
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,0.5
+CHEMBL8,,IC50,ug.mL-1,0.68,CHEMBL354,Escherichia coli,IC50,ug ml-1,0.68
+CHEMBL8,,CLogP,,-0.805,CHEMBL2362975,No relevant target,cLogP,,-0.805
+CHEMBL8,,MIC,ug.mL-1,0.13,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.13
+CHEMBL8,,MIC,ug.mL-1,4.0,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,4.0
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL347,Streptococcus pneumoniae,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,1.0,CHEMBL357,Enterococcus faecium,MIC,ug ml-1,1.0
+CHEMBL8,,ED50,mg.kg-1,7.0,CHEMBL375,Mus musculus,ED50,mg kg-1,7.0
+CHEMBL8,,ED50,mg.kg-1,0.9,CHEMBL375,Mus musculus,ED50,mg kg-1,0.9
+CHEMBL8,,Geometric mean,,0.033,CHEMBL612545,Unchecked,Geometric mean,,0.033
+CHEMBL8,,Geometric mean,,0.092,CHEMBL612490,Bacteria,Geometric mean,,0.092
+CHEMBL404,7.00,IC50,nM,100.0,CHEMBL2065,Beta-lactamase TEM,IC50,nM,100.0
+CHEMBL404,7.52,IC50,nM,30.0,CHEMBL5219,IMI-1,IC50,nM,30.0
+CHEMBL404,,IC50,nM,400000.0,CHEMBL4840,Metallo-beta-lactamase type 2,IC50,nM,400000.0
+CHEMBL404,4.08,IC50,nM,84000.0,CHEMBL2026,Beta-lactamase,IC50,nM,84000.0
+CHEMBL4,,MIC,ug.mL-1,0.39,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.39
+CHEMBL4,,MIC,ug.mL-1,0.78,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,0.78
+CHEMBL4,,MIC,ug.mL-1,1.56,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,1.56
+CHEMBL4,,MIC,ug.mL-1,3.13,CHEMBL614421,Micrococcus luteus,MIC,ug ml-1,3.13
+CHEMBL4,,MIC,ug.mL-1,0.1,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.1
+CHEMBL4,,MIC,ug.mL-1,0.1,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.1
+CHEMBL4,,MIC,ug.mL-1,1.56,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,1.56
+CHEMBL4,,ED50,mg.kg-1,11.4,CHEMBL375,Mus musculus,ED50,mg kg-1,11.4
+CHEMBL4,,MIC50,ug.mL-1,6.25,CHEMBL352,Staphylococcus aureus,MIC50,ug ml-1,6.25
+CHEMBL4,,MIC90,ug.mL-1,50.0,CHEMBL352,Staphylococcus aureus,MIC90,ug ml-1,50.0
+CHEMBL4,,ED50,mg.kg-1,14.6,CHEMBL375,Mus musculus,ED50,mg kg-1,14.6
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL614595,Shigella sonnei,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL614395,Shigella boydii,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614405,Plesiomonas shigelloides,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614443,Morganella morganii,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.1526,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.1526
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.1526,CHEMBL612621,Vibrio mimicus,MIC,ug ml-1,0.1526
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614602,Vibrio fluvialis,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614402,Vibrio cholerae,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614403,Vibrio parahaemolyticus,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL614598,Edwardsiella tarda,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614444,Proteus mirabilis,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL351,Salmonella typhimurium,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL612293,Salmonella paratyphi,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614448,Salmonella typhi,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL614447,Salmonella enteritidis,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0381,CHEMBL612615,Citrobacter freundii,MIC,ug ml-1,0.0381
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL614439,Enterobacter,MIC,ug ml-1,0.0763
+CHEMBL9,,MIC,ug.mL-1,0.0763,CHEMBL613071,Priestia megaterium,MIC,ug ml-1,0.0763
+CHEMBL8,,Log K',,0.14,CHEMBL3253,Albumin,Log K',,0.14
+CHEMBL9,,Log K',,0.14,CHEMBL3253,Albumin,Log K',,0.14
+CHEMBL6,,Gastric score,,2.4,CHEMBL612558,ADMET,Gastric score,,2.4
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.004,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.004
+CHEMBL8,,MIC,ug.mL-1,0.125,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.125
+CHEMBL8,,MIC,ug.mL-1,2.0,CHEMBL614411,Bacteroides fragilis,MIC,ug ml-1,2.0
+CHEMBL8,,IC50,ug.mL-1,5.3,CHEMBL2094139,DNA gyrase,IC50,ug ml-1,5.3
+CHEMBL8,,PD50,mg kg-1,1.2,CHEMBL354,Escherichia coli,PD50,mg kg-1,1.2
+CHEMBL8,,PD50,mg kg-1,0.3,CHEMBL354,Escherichia coli,PD50,mg kg-1,0.3
+CHEMBL8,,Pc,cm s-1,1900000.0,CHEMBL372,Homo sapiens,Pc,cm s-1,1900000.0
+CHEMBL8,,Papp,cm s-1,1700000.0,CHEMBL612558,ADMET,Papp,cm s-1,1700000.0
+CHEMBL8,,Ratio,,0.44,CHEMBL372,Homo sapiens,Ratio,,0.44
+CHEMBL8,,FA,,69.0,CHEMBL372,Homo sapiens,FA,,69.0
+CHEMBL4,,IC50,ug.mL-1,500.0,CHEMBL614074,V79,IC50,ug ml-1,500.0
+CHEMBL4,,MIC,ug.mL-1,0.2,CHEMBL3879801,NON-PROTEIN TARGET,MIC,ug ml-1,0.2
+CHEMBL4,,MIC,ug.mL-1,0.46,CHEMBL1921666,DNA gyrase subunit B,MIC,ug ml-1,0.46
+CHEMBL4,,IC50,ug.mL-1,1.8,CHEMBL2094139,DNA gyrase,IC50,ug ml-1,1.8
+CHEMBL6,8.23,IC50,nM,5.9,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.0059
+CHEMBL6,8.52,IC50,nM,3.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.003
+CHEMBL6,6.20,IC50,nM,630.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.63
+CHEMBL6,6.64,IC50,nM,230.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.23
+CHEMBL6,,Ratio,,0.37,CHEMBL2094253,Cyclooxygenase,Ratio,,0.37
+CHEMBL6,,ED50,mg.kg-1,4.0,CHEMBL376,Rattus norvegicus,ED50,mg kg-1,4.0
+CHEMBL6,,ED40,mg kg-1,2.0,CHEMBL376,Rattus norvegicus,ED40,mg kg-1,2.0
+CHEMBL6,,UD,mg kg-1,4.0,CHEMBL376,Rattus norvegicus,UD,mg kg-1,4.0
+CHEMBL6,,Blood loss,mg kg-1,4.0,CHEMBL376,Rattus norvegicus,Blood loss,mg kg-1,4.0
+CHEMBL6,,Lethality,mg kg-1,8.0,CHEMBL376,Rattus norvegicus,Lethality,mg kg-1,8.0
+CHEMBL4,,Concentration,ug ml-1,5.0,CHEMBL2094139,DNA gyrase,Concentration,ug ml-1,5.0
+CHEMBL4,,IC50,ug.mL-1,7.5,CHEMBL2094139,DNA gyrase,IC50,ug ml-1,7.5
+CHEMBL4,,MIC,ug.mL-1,0.1,CHEMBL612537,Providencia rettgeri,MIC,ug ml-1,0.1
+CHEMBL4,,MIC,ug.mL-1,0.1,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.1
+CHEMBL4,,MIC,ug.mL-1,0.4,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.4
+CHEMBL4,,MIC,ug.mL-1,0.4,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.4
+CHEMBL4,,MIC,ug.mL-1,0.1,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.1
+CHEMBL4,,MIC,ug.mL-1,0.8,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,0.8
+CHEMBL4,,MIC,ug.mL-1,0.8,CHEMBL347,Streptococcus pneumoniae,MIC,ug ml-1,0.8
+CHEMBL4,,MIC,ug.mL-1,0.8,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,0.8
+CHEMBL4,,PD50,mg kg-1,2.0,CHEMBL354,Escherichia coli,PD50,mg kg-1,2.0
+CHEMBL4,,PD50,mg kg-1,0.8,CHEMBL354,Escherichia coli,PD50,mg kg-1,0.8
+CHEMBL6,7.00,IC50,nM,100.0,CHEMBL2095157,Cyclooxygenase,IC50,uM,0.1
+CHEMBL8,,IC50,ug.mL-1,380.0,CHEMBL614074,V79,IC50,ug ml-1,380.0
+CHEMBL8,,MIC,ug.mL-1,0.1,CHEMBL3879801,NON-PROTEIN TARGET,MIC,ug ml-1,0.1
+CHEMBL8,,MIC,ug.mL-1,0.91,CHEMBL1921666,DNA gyrase subunit B,MIC,ug ml-1,0.9100000000000001
+CHEMBL6,7.31,IC50,nM,49.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.049
+CHEMBL6,7.41,IC50,nM,39.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.039
+CHEMBL6,,Selectivity ratio,,0.8,CHEMBL2094253,Cyclooxygenase,Selectivity ratio,,0.8
+CHEMBL3,8.98,Ki,nM,1.05,CHEMBL1907596,Neuronal acetylcholine receptor; alpha4/beta2,Ki,nM,1.05
+CHEMBL3,5.40,Ki,nM,4000.0,CHEMBL4980,Neuronal acetylcholine receptor subunit alpha-7,Ki,nM,4000.0
+CHEMBL3,,Ki,nM,10000.0,CHEMBL2096975,Acetylcholine receptor,Ki,nM,10000.0
+CHEMBL3,5.40,EC50,nM,4000.0,CHEMBL1907596,Neuronal acetylcholine receptor; alpha4/beta2,EC50,nM,4000.0
+CHEMBL3,4.27,EC50,nM,54000.0,CHEMBL4980,Neuronal acetylcholine receptor subunit alpha-7,EC50,nM,54000.0
+CHEMBL3,4.22,EC50,nM,60000.0,CHEMBL2096975,Acetylcholine receptor,EC50,nM,60000.0
+CHEMBL3,,Ratio,,3810.0,CHEMBL612545,Unchecked,Ratio,,3810.0
+CHEMBL3,,Ratio,,13.5,CHEMBL612545,Unchecked,Ratio,,13.5
+CHEMBL3,,Ratio,,6.0,CHEMBL612545,Unchecked,Ratio,,6.0
+CHEMBL3,,Binding selectivity,,3810.0,CHEMBL612545,Unchecked,Binding selectivity,,3810.0
+CHEMBL3,,Functional selectivity,,13.5,CHEMBL612545,Unchecked,Functional selectivity,,13.5
+CHEMBL3,5.40,EC50,nM,4000.0,CHEMBL1907589,Neuronal acetylcholine receptor; alpha4/beta2,EC50,uM,4.0
+CHEMBL3,4.08,EC50,nM,83000.0,CHEMBL2492,Neuronal acetylcholine receptor subunit alpha-7,EC50,uM,83.0
+CHEMBL3,4.68,EC50,nM,21000.0,CHEMBL1907594,Neuronal acetylcholine receptor; alpha3/beta4,EC50,uM,21.0
+CHEMBL3,,EC50,nM,160000.0,CHEMBL3916,Acetylcholine receptor subunit delta,EC50,uM,160.0
+CHEMBL3,6.23,EC50,nM,590.0,CHEMBL1907596,Neuronal acetylcholine receptor; alpha4/beta2,EC50,uM,0.59
+CHEMBL3,4.70,EC50,nM,20000.0,CHEMBL2094110,Neuronal acetylcholine receptor,EC50,uM,20.0
+CHEMBL3,7.40,EC50,nM,40.0,CHEMBL376,Rattus norvegicus,EC50,uM,0.04
+CHEMBL6,,ED30,mg kg-1,16.0,CHEMBL376,Rattus norvegicus,ED30,mg kg-1,16.0
+CHEMBL6,,ED50,mg.kg-1,60.0,CHEMBL375,Mus musculus,ED50,mg kg-1,60.0
+CHEMBL6,,ED50,mg.kg-1,1.0,CHEMBL375,Mus musculus,ED50,mg kg-1,1.0
+CHEMBL6,,ED50,mg.kg-1,7.0,CHEMBL376,Rattus norvegicus,ED50,mg kg-1,7.0
+CHEMBL9,,MIC,ug.mL-1,50.0,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,50.0
+CHEMBL9,,MIC,ug.mL-1,12.5,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,12.5
+CHEMBL8,,MIC,ug.mL-1,0.9,CHEMBL1921666,DNA gyrase subunit B,MIC,ug ml-1,0.9
+CHEMBL9,,IC50,ug.mL-1,500.0,CHEMBL614074,V79,IC50,ug ml-1,500.0
+CHEMBL9,,MIC,ug.mL-1,0.06,CHEMBL3879801,NON-PROTEIN TARGET,MIC,ug ml-1,0.06
+CHEMBL9,,MIC,ug.mL-1,0.61,CHEMBL1921666,DNA gyrase subunit B,MIC,ug ml-1,0.61
+CHEMBL6,6.14,IC50,nM,730.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.73
+CHEMBL6,6.96,IC50,nM,110.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.11
+CHEMBL6,6.36,IC50,nM,440.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.44
+CHEMBL6,6.72,IC50,nM,190.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.19
+CHEMBL9,,MIC,ug.mL-1,2.0,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,2.0
+CHEMBL9,,MIC,ug.mL-1,4.0,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,4.0
+CHEMBL9,,MIC,ug.mL-1,4.0,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,4.0
+CHEMBL9,,MIC,ug.mL-1,0.125,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.125
+CHEMBL9,,MIC,ug.mL-1,2.0,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,2.0
+CHEMBL9,,MIC,ug.mL-1,8.0,CHEMBL614411,Bacteroides fragilis,MIC,ug ml-1,8.0
+CHEMBL3,5.30,EC50,nM,5000.0,CHEMBL1907589,Neuronal acetylcholine receptor; alpha4/beta2,EC50,uM,5.0
+CHEMBL3,,Max,%,100.0,CHEMBL1907589,Neuronal acetylcholine receptor; alpha4/beta2,Max,%,100.0
+CHEMBL3,4.68,EC50,nM,21000.0,CHEMBL2111384,Nicotinic acetylcholine receptor alpha3/betaX,EC50,uM,21.0
+CHEMBL5,,IC50,ug.mL-1,52.0,CHEMBL2094139,DNA gyrase,IC50,ug ml-1,52.0
+CHEMBL8,,MIC,ug.mL-1,0.39,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.39
+CHEMBL8,,MIC,ug.mL-1,0.78,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.78
+CHEMBL8,,MIC,ug.mL-1,25.0,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,25.0
+CHEMBL8,,MIC,ug.mL-1,6.25,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,6.25
+CHEMBL2,9.62,Ki,nM,0.24,CHEMBL1907610,Adrenergic receptor alpha-1,Ki,nM,0.24
+CHEMBL6,,Activity,,-5.67,CHEMBL2094118,Adrenergic receptor beta,Activity,,-5.67
+CHEMBL3,8.08,Ki,nM,8.4,CHEMBL2094110,Neuronal acetylcholine receptor,Ki,nM,8.4
+CHEMBL3,,Ki,nM,5000.0,CHEMBL1907609,Muscarinic acetylcholine receptor,Ki,nM,5000.0
+CHEMBL3,,Selectivity,,595.0,CHEMBL612545,Unchecked,Selectivity,,595.0
+CHEMBL3,,Concentration,nM g-1,2.18,CHEMBL376,Rattus norvegicus,Concentration,nM g-1,2.18
+CHEMBL3,,Control,%,140.0,CHEMBL376,Rattus norvegicus,Control,%,140.0
+CHEMBL3,,Concentration,nM g-1,134.0,CHEMBL376,Rattus norvegicus,Concentration,nM g-1,134.0
+CHEMBL3,,Control,%,151.0,CHEMBL376,Rattus norvegicus,Control,%,151.0
+CHEMBL3,,Concentration,nM g-1,2.0,CHEMBL376,Rattus norvegicus,Concentration,nM g-1,2.0
+CHEMBL3,,Control,%,144.0,CHEMBL376,Rattus norvegicus,Control,%,144.0
+CHEMBL3,,Concentration,nM g-1,0.86,CHEMBL376,Rattus norvegicus,Concentration,nM g-1,0.86
+CHEMBL3,,Control,%,157.0,CHEMBL376,Rattus norvegicus,Control,%,157.0
+CHEMBL8,,MIC,ug.mL-1,32000000.0,CHEMBL352,Staphylococcus aureus,MIC,g ml-1,32.0
+CHEMBL8,,MIC,ug.mL-1,500000.0,CHEMBL352,Staphylococcus aureus,MIC,g ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,1000000.0,CHEMBL352,Staphylococcus aureus,MIC,g ml-1,1.0
+CHEMBL8,,MIC,ug.mL-1,64000000.0,CHEMBL357,Enterococcus faecium,MIC,g ml-1,64.0
+CHEMBL8,,MIC,ug.mL-1,60000.0,CHEMBL355,Haemophilus influenzae,MIC,g ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,30000.0,CHEMBL614429,Moraxella catarrhalis,MIC,g ml-1,0.03
+CHEMBL8,,MIC,ug.mL-1,30000.0,CHEMBL354,Escherichia coli,MIC,g ml-1,0.03
+CHEMBL3,,Vdss,L.kg-1,2.6,CHEMBL612558,ADMET,Vdss,l kg-1,2.6
+CHEMBL3,,Fu,,0.95,CHEMBL612558,ADMET,Fraction free drug in plasma,,0.95
+CHEMBL3,,Fu,,0.15,CHEMBL612558,ADMET,Fraction unbound in tissue,,0.15
+CHEMBL3,,eLog D,,0.23,CHEMBL612558,ADMET,eLog D,,0.23
+CHEMBL3,,Fraction ionised,,0.834,CHEMBL612558,ADMET,Fraction ionised,,0.834
+CHEMBL3,,pKa,,8.1,CHEMBL2362975,No relevant target,pKa,,8.1
+CHEMBL9,,MIC,ug.mL-1,0.78,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.78
+CHEMBL9,,MIC,ug.mL-1,1.56,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,1.56
+CHEMBL9,,MIC,ug.mL-1,0.78,CHEMBL357,Enterococcus faecium,MIC,ug ml-1,0.78
+CHEMBL9,,MIC,ug.mL-1,3.1,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,3.1
+CHEMBL9,,MIC,ug.mL-1,0.2,CHEMBL612508,Klebsiella aerogenes,MIC,ug ml-1,0.2
+CHEMBL9,,MIC,ug.mL-1,0.1,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.1
+CHEMBL9,,MIC,ug.mL-1,0.39,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.39
+CHEMBL9,,MIC,ug.mL-1,6.2,CHEMBL614424,Acinetobacter,MIC,ug ml-1,6.2
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL359,Bacillus subtilis,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL613070,Bacillus cereus,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,0.12,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.12
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL614443,Morganella morganii,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.03,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.03
+CHEMBL8,,MIC,ug.mL-1,0.12,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.12
+CHEMBL8,,MIC,ug.mL-1,0.03,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.03
+CHEMBL8,,ED50,mg.kg-1,45.1,CHEMBL375,Mus musculus,ED50,mg kg-1,45.1
+CHEMBL8,,ED50,mg.kg-1,3.0,CHEMBL375,Mus musculus,ED50,mg kg-1,3.0
+CHEMBL8,,ED50,mg.kg-1,70.3,CHEMBL375,Mus musculus,ED50,mg kg-1,70.3
+CHEMBL8,,AUC,ng.hr.mL-1,2300.0,CHEMBL612558,ADMET,AUC,ug ml-1 hr-1,2.3
+CHEMBL8,,Solubility,ug.mL-1,90.0,CHEMBL2362975,No relevant target,S,ug ml-1,90.0
+CHEMBL6,,ED50,mg.kg-1,1.5,CHEMBL375,Mus musculus,ED50,mg kg-1,1.5
+CHEMBL6,,Inhibition,%,1.0,CHEMBL376,Rattus norvegicus,Inhibition,%,1.0
+CHEMBL6,7.96,IC50,nM,11.0,CHEMBL612545,Unchecked,IC50,M,1.1E-8
+CHEMBL6,8.70,IC50,nM,2.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.002
+CHEMBL6,8.05,IC50,nM,9.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.009
+CHEMBL6,,Inhibition,%,100.0,CHEMBL230,Prostaglandin G/H synthase 2,Inhibition,%,100.0
+CHEMBL6,,Inhibition,%,67.9,CHEMBL230,Prostaglandin G/H synthase 2,Inhibition,%,67.9
+CHEMBL6,,Inhibition,%,66.2,CHEMBL376,Rattus norvegicus,Inhibition,%,66.2
+CHEMBL6,6.19,IC50,nM,640.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,nM,640.0
+CHEMBL6,,Inhibition,%,94.0,CHEMBL376,Rattus norvegicus,Inhibition,%,94.0
+CHEMBL6,,Cr secretion,%,7.5,CHEMBL376,Rattus norvegicus,Cr secretion,%,7.5
+CHEMBL8,,MIC,ug.mL-1,0.0078,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.0078
+CHEMBL8,,MIC,ug.mL-1,0.0156,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.0156
+CHEMBL8,,MIC,ug.mL-1,0.0313,CHEMBL612615,Citrobacter freundii,MIC,ug ml-1,0.0313
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.0078,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.0078
+CHEMBL8,,MIC,ug.mL-1,0.0313,CHEMBL614593,Serratia marcescens,MIC,ug ml-1,0.0313
+CHEMBL8,,MIC,ug.mL-1,0.0078,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.0078
+CHEMBL8,,MIC,ug.mL-1,0.0625,CHEMBL614444,Proteus mirabilis,MIC,ug ml-1,0.0625
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.125,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.125
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,1.0,CHEMBL347,Streptococcus pneumoniae,MIC,ug ml-1,1.0
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,4.0,CHEMBL614411,Bacteroides fragilis,MIC,ug ml-1,4.0
+CHEMBL8,,MIC,ug.mL-1,16.0,CHEMBL614411,Bacteroides fragilis,MIC,ug ml-1,16.0
+CHEMBL8,,MIC,ug.mL-1,128.0,CHEMBL614412,Bacteroides thetaiotaomicron,MIC,ug ml-1,128.0
+CHEMBL8,,MIC,ug.mL-1,0.125,CHEMBL614966,Hathewaya histolytica,MIC,ug ml-1,0.125
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL614412,Bacteroides thetaiotaomicron,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,16.0,CHEMBL614965,Clostridioides difficile,MIC,ug ml-1,16.0
+CHEMBL8,,MIC,ug.mL-1,8.0,CHEMBL614965,Clostridioides difficile,MIC,ug ml-1,8.0
+CHEMBL8,,IC50,ug.mL-1,0.3,CHEMBL354,Escherichia coli,IC50,ug ml-1,0.3
+CHEMBL8,,MIC,ug.mL-1,0.25,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.25
+CHEMBL8,,MIC,ug.mL-1,0.01,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.01
+CHEMBL6,,EC50,ug.mL-1,200.0,CHEMBL372,Homo sapiens,EC50,mg l-1,200.0
+CHEMBL6,,Relative activity,,2.47,CHEMBL372,Homo sapiens,Relative activity,,2.47
+CHEMBL8,,MIC,ug.mL-1,0.1,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.1
+CHEMBL8,,MIC,ug.mL-1,0.2,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,0.2
+CHEMBL8,,MIC,ug.mL-1,1.56,CHEMBL356,Streptococcus pyogenes,MIC,ug ml-1,1.56
+CHEMBL8,,MIC,ug.mL-1,1.56,CHEMBL362,Enterococcus faecalis,MIC,ug ml-1,1.56
+CHEMBL8,,MIC,ug.mL-1,0.006,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.006
+CHEMBL8,,MIC,ug.mL-1,0.05,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.05
+CHEMBL8,,MIC,ug.mL-1,0.013,CHEMBL614450,Proteus vulgaris,MIC,ug ml-1,0.013
+CHEMBL8,,MIC,ug.mL-1,0.025,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.025
+CHEMBL8,,MIC,ug.mL-1,0.05,CHEMBL614593,Serratia marcescens,MIC,ug ml-1,0.05
+CHEMBL8,,MIC,ug.mL-1,0.1,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.1
+CHEMBL2,4.89,IC50,nM,13000.0,CHEMBL612545,Unchecked,IC50,nM,13000.0
+CHEMBL6,5.62,IC50,nM,2400.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,2.4
+CHEMBL6,6.82,IC50,nM,150.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.15
+CHEMBL404,6.60,IC50,nM,250.0,CHEMBL2026,Beta-lactamase,IC50,uM,0.25
+CHEMBL404,,IC50,nM,101600.0,CHEMBL2725,Beta-lactamase,IC50,uM,101.6
+CHEMBL8,,MIC90,ug.mL-1,8.0,CHEMBL347,Streptococcus pneumoniae,MIC90,ug ml-1,8.0
+CHEMBL8,,MIC90,ug.mL-1,0.015,CHEMBL355,Haemophilus influenzae,MIC90,ug ml-1,0.015
+CHEMBL8,,MIC90,ug.mL-1,0.06,CHEMBL614429,Moraxella catarrhalis,MIC90,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.025,CHEMBL612508,Klebsiella aerogenes,MIC,ug ml-1,0.025
+CHEMBL8,,MIC,ug.mL-1,0.5,CHEMBL612508,Klebsiella aerogenes,MIC,ug ml-1,0.5
+CHEMBL8,,MIC,ug.mL-1,32.0,CHEMBL612508,Klebsiella aerogenes,MIC,ug ml-1,32.0
+CHEMBL2,,Fall,%,26.0,CHEMBL376,Rattus norvegicus,Fall,%,26.0
+CHEMBL2,,Fall,%,46.0,CHEMBL376,Rattus norvegicus,Fall,%,46.0
+CHEMBL2,,Fall,%,36.0,CHEMBL376,Rattus norvegicus,Fall,%,36.0
+CHEMBL2,,Fall,%,31.0,CHEMBL376,Rattus norvegicus,Fall,%,31.0
+CHEMBL2,,Fall,%,19.0,CHEMBL376,Rattus norvegicus,Fall,%,19.0
+CHEMBL2,,Fall,%,21.0,CHEMBL376,Rattus norvegicus,Fall,%,21.0
+CHEMBL6,,T1/2,hr,150.0,CHEMBL372,Homo sapiens,T1/2,hr,150.0
+CHEMBL6,,T1/2,hr,0.4167,CHEMBL372,Homo sapiens,T1/2,min,25.0
+CHEMBL8,,MIC,ug.mL-1,0.03,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.03
+CHEMBL8,,MIC,ug.mL-1,0.01,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.01
+CHEMBL8,,MIC,ug.mL-1,0.06,CHEMBL614426,Acinetobacter calcoaceticus,MIC,ug ml-1,0.06
+CHEMBL8,,MIC,ug.mL-1,0.03,CHEMBL614594,Shigella,MIC,ug ml-1,0.03
+CHEMBL8,,MIC,ug.mL-1,0.12,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.12
+CHEMBL8,,MIC,ug.mL-1,0.12,CHEMBL353,Staphylococcus epidermidis,MIC,ug ml-1,0.12
+CHEMBL8,,Concentration,ug ml-1,1.0,CHEMBL3879801,NON-PROTEIN TARGET,Concentration,ug ml-1,1.0
+CHEMBL4,,CC50,nM,200000.0,CHEMBL388,MT4,CC50,uM,200.0
+CHEMBL4,,MIC50,nM,2000.0,CHEMBL614983,Mycolicibacterium fortuitum,MIC50,uM,2.0
+CHEMBL4,,MIC90,nM,5000.0,CHEMBL614983,Mycolicibacterium fortuitum,MIC90,uM,5.0
+CHEMBL4,,MIC50,nM,2000.0,CHEMBL613088,Mycolicibacterium smegmatis,MIC50,uM,2.0
+CHEMBL4,,MIC90,nM,4000.0,CHEMBL613088,Mycolicibacterium smegmatis,MIC90,uM,4.0
+CHEMBL4,,MIC50,nM,1500.0,CHEMBL614982,Mycobacterium avium,MIC50,uM,1.5
+CHEMBL4,,MIC90,nM,3000.0,CHEMBL614982,Mycobacterium avium,MIC90,uM,3.0
+CHEMBL4,,MIC50,nM,3000.0,CHEMBL360,Mycobacterium tuberculosis,MIC50,uM,3.0
+CHEMBL4,,MIC90,nM,3000.0,CHEMBL360,Mycobacterium tuberculosis,MIC90,uM,3.0
+CHEMBL4,,MIC50,nM,2000.0,CHEMBL360,Mycobacterium tuberculosis,MIC50,uM,2.0
+CHEMBL4,,MIC,nM,1500.0,CHEMBL612313,Streptococcus,MIC,uM,1.5
+CHEMBL4,,MBC,uM,1.5,CHEMBL612313,Streptococcus,MBC,uM,1.5
+CHEMBL4,,MIC,nM,800.0,CHEMBL352,Staphylococcus aureus,MIC,uM,0.8
+CHEMBL4,,MBC,uM,0.8,CHEMBL352,Staphylococcus aureus,MBC,uM,0.8
+CHEMBL4,,MIC,nM,400.0,CHEMBL614446,Salmonella,MIC,uM,0.4
+CHEMBL4,,MBC,uM,0.4,CHEMBL614446,Salmonella,MBC,uM,0.4
+CHEMBL4,,MIC,nM,400.0,CHEMBL614594,Shigella,MIC,uM,0.4
+CHEMBL4,,MBC,uM,0.4,CHEMBL614594,Shigella,MBC,uM,0.4
+CHEMBL6,,ED50,mg.kg-1,0.3,CHEMBL376,Rattus norvegicus,ED50,mg kg-1,0.3
+CHEMBL8,,MIC,ug.mL-1,0.008,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.008
+CHEMBL8,,MIC,ug.mL-1,0.015,CHEMBL614443,Morganella morganii,MIC,ug ml-1,0.015
+CHEMBL8,,MIC,ug.mL-1,0.13,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.13
+CHEMBL8,,PD50,mg kg-1,4.0,CHEMBL352,Staphylococcus aureus,PD50,mg kg-1,4.0
+CHEMBL8,,PD50,mg kg-1,5.0,CHEMBL348,Pseudomonas aeruginosa,PD50,mg kg-1,5.0
+CHEMBL8,,PD50,mg kg-1,0.7,CHEMBL354,Escherichia coli,PD50,mg kg-1,0.7
+CHEMBL8,,PD50,mg kg-1,1.5,CHEMBL350,Klebsiella pneumoniae,PD50,mg kg-1,1.5
+CHEMBL8,,LD50,mg.kg-1,2500.0,CHEMBL375,Mus musculus,LD50,mg kg-1,2500.0
+CHEMBL8,,Cmax,nM,9053.87,CHEMBL373,Canis familiaris,Cmax,ug ml-1,3.0
+CHEMBL8,,T1/2,hr,3.5,CHEMBL373,Canis familiaris,T1/2,hr,3.5
+CHEMBL8,,AUC,ug ml-1,20.0,CHEMBL373,Canis familiaris,AUC,ug ml-1,20.0
+CHEMBL8,,UR,%,17.0,CHEMBL373,Canis familiaris,UR,%,17.0
+CHEMBL6,6.05,IC50,nM,900.0,CHEMBL230,Prostaglandin G/H synthase 2,IC50,uM,0.9
+CHEMBL6,7.00,IC50,nM,100.0,CHEMBL221,Prostaglandin G/H synthase 1,IC50,uM,0.1
+CHEMBL6,,Ratio,,0.1,CHEMBL2094253,Cyclooxygenase,Ratio,,0.1
+CHEMBL6,,ED50,mg.kg-1,0.1,CHEMBL376,Rattus norvegicus,ED50,mg kg-1,0.1
+CHEMBL6,,ED50,mg.kg-1,60.0,CHEMBL376,Rattus norvegicus,ED50,mg kg-1,60.0
+CHEMBL6,,No. of animals with damage,,6.0,CHEMBL376,Rattus norvegicus,No. of animals with damage,,6.0
+CHEMBL9,,MIC,ug.mL-1,0.25,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,0.25
+CHEMBL9,,MIC,ug.mL-1,0.13,CHEMBL354,Escherichia coli,MIC,ug ml-1,0.13
+CHEMBL9,,MIC,ug.mL-1,0.03,CHEMBL350,Klebsiella pneumoniae,MIC,ug ml-1,0.03
+CHEMBL9,,MIC,ug.mL-1,0.06,CHEMBL349,Enterobacter cloacae,MIC,ug ml-1,0.06
+CHEMBL9,,MIC,ug.mL-1,0.015,CHEMBL614443,Morganella morganii,MIC,ug ml-1,0.015
+CHEMBL9,,MIC,ug.mL-1,0.5,CHEMBL348,Pseudomonas aeruginosa,MIC,ug ml-1,0.5
+CHEMBL9,,PD50,mg kg-1,10.0,CHEMBL352,Staphylococcus aureus,PD50,mg kg-1,10.0
+CHEMBL9,,PD50,mg kg-1,16.0,CHEMBL348,Pseudomonas aeruginosa,PD50,mg kg-1,16.0
+CHEMBL9,,PD50,mg kg-1,3.0,CHEMBL354,Escherichia coli,PD50,mg kg-1,3.0
+CHEMBL9,,PD50,mg kg-1,8.0,CHEMBL350,Klebsiella pneumoniae,PD50,mg kg-1,8.0
+CHEMBL9,,LD50,mg.kg-1,2500.0,CHEMBL375,Mus musculus,LD50,mg kg-1,2500.0
+CHEMBL403,,MPC,ug ml-1,1.6,CHEMBL1744492,Beta lactamase TEM-1,MPC,ug ml-1,1.6
+CHEMBL403,,MPC,ug ml-1,12.5,CHEMBL4114,Beta-lactamase,MPC,ug ml-1,12.5
+CHEMBL403,,MPC,ug ml-1,12.5,CHEMBL4840,Metallo-beta-lactamase type 2,MPC,ug ml-1,12.5
+CHEMBL403,,MIC,ug.mL-1,125.0,CHEMBL352,Staphylococcus aureus,MIC,ug ml-1,125.0
+CHEMBL403,,MIC,ug.mL-1,125.0,CHEMBL354,Escherichia coli,MIC,ug ml-1,125.0
+CHEMBL403,,PD50,ug ml-1,200.0,CHEMBL375,Mus musculus,PD50,ug ml-1,200.0
+CHEMBL403,,PD50,mg kg-1,200.0,CHEMBL375,Mus musculus,PD50,mg kg-1,200.0
+CHEMBL2,8.33,Kd,nM,4.677,CHEMBL1907610,Adrenergic receptor alpha-1,pA2,,8.33
+CHEMBL2,5.91,Kd,nM,1230.27,CHEMBL2093864,Adrenergic receptor alpha-2,pA2,,5.91
+CHEMBL2,8.70,Kd,nM,1.995,CHEMBL326,Alpha-1D adrenergic receptor,pA2,,8.7
+CHEMBL2,9.24,IC50,nM,0.58,CHEMBL1907610,Adrenergic receptor alpha-1,IC50,M,5.8E-10
+CHEMBL2,5.30,IC50,nM,5000.0,CHEMBL2093864,Adrenergic receptor alpha-2,IC50,M,0.000005
+CHEMBL2,,Selectivity index,,2.42,CHEMBL2094111,Adrenergic receptor alpha,Selectivity index,,2.42
+CHEMBL2,,Selectivity index,,3.94,CHEMBL2094111,Adrenergic receptor alpha,Selectivity index,,3.94
+CHEMBL8,,CC50,nM,60000.0,CHEMBL388,MT4,CC50,uM,60.0
+CHEMBL8,,MIC50,nM,1500.0,CHEMBL614983,Mycolicibacterium fortuitum,MIC50,uM,1.5
+CHEMBL8,,MIC90,nM,4000.0,CHEMBL614983,Mycolicibacterium fortuitum,MIC90,uM,4.0
+CHEMBL8,,MIC50,nM,8800.0,CHEMBL613088,Mycolicibacterium smegmatis,MIC50,uM,8.8
+CHEMBL8,,MIC90,nM,1000.0,CHEMBL613088,Mycolicibacterium smegmatis,MIC90,uM,1.0
+CHEMBL8,,MIC50,nM,2000.0,CHEMBL614982,Mycobacterium avium,MIC50,uM,2.0
+CHEMBL8,,MIC90,nM,3000.0,CHEMBL614982,Mycobacterium avium,MIC90,uM,3.0
+CHEMBL8,,MIC50,nM,1500.0,CHEMBL360,Mycobacterium tuberculosis,MIC50,uM,1.5
+CHEMBL8,,MIC90,nM,3000.0,CHEMBL360,Mycobacterium tuberculosis,MIC90,uM,3.0
+CHEMBL8,,MIC50,nM,1000.0,CHEMBL360,Mycobacterium tuberculosis,MIC50,uM,1.0
