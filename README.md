@@ -19,9 +19,13 @@ PharmaForm AI is an industrial-grade pharmaceutical R&D platform designed for fo
 9. **AI Formulation Assistant**: Gemini 3.6 Flash powered industrial formulation scientist copilot for excipient substitution and wet vs dry process optimization.
 ## Data Attribution
 
-Drug structures and drug–target bioactivity data were obtained from [ChEMBL](https://www.ebi.ac.uk/chembl/), provided by EMBL-EBI. Molecular descriptors were calculated using [RDKit](https://www.rdkit.org/) and the resulting data were processed using Pandas.
+Drug structures and drug–target bioactivity data were obtained from [ChEMBL](https://www.ebi.ac.uk/chembl/), provided by EMBL-EBI.
 
-Data usage is subject to the applicable [ChEMBL/EMBL-EBI terms](https://www.ebi.ac.uk/chembl/licensing/).
+Drug and excipient molecular structures used in the drug–excipient compatibility dataset were obtained from [PubChem](https://pubchem.ncbi.nlm.nih.gov/).
+
+Molecular descriptors were calculated using [RDKit](https://www.rdkit.org/), and data processing and organization were performed using Pandas.
+
+Data usage is subject to the applicable [ChEMBL/EMBL-EBI terms](https://www.ebi.ac.uk/chembl/licensing/) and [PubChem policies and terms](https://pubchem.ncbi.nlm.nih.gov/docs/terms).
 ## Technology Stack
 
 - **Frontend**: React 19, TypeScript, TailwindCSS, Recharts, Framer Motion, Lucide Icons, jsPDF
